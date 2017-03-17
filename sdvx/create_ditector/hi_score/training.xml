@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='train_img/C0SIuSEVEAA3h58.jpg'>
+    <box top='595' left='460' width='138' height='22'/>
+  </image>
+  <image file='train_img/C0SSXlqUAAAKd-H.jpg'>
+    <box top='677' left='303' width='179' height='28'/>
+  </image>
+  <image file='train_img/C0SSXlqVQAEM8yZ.jpg'>
+    <box top='656' left='295' width='177' height='33'/>
+  </image>
+  <image file='train_img/C0SSXlrUcAAbzea.jpg'>
+    <box top='674' left='293' width='172' height='32'/>
+  </image>
+  <image file='train_img/C0SSXlrVEAEICzX.jpg'>
+    <box top='651' left='310' width='177' height='26'/>
+  </image>
+  <image file='train_img/C0SW7rNUAAEVAdh.jpg'>
+    <box top='799' left='326' width='188' height='33'/>
+  </image>
+  <image file='train_img/C0SYBe3UcAAIOVQ.jpg'>
+    <box top='899' left='297' width='200' height='40'/>
+  </image>
+  <image file='train_img/C0SbB-7UsAEf-xw.jpg'>
+    <box top='779' left='344' width='218' height='39'/>
+  </image>
+  <image file='train_img/C0SbB_mUkAA8RGz.jpg'>
+    <box top='759' left='343' width='196' height='32'/>
+  </image>
+  <image file='train_img/C0Sf6yrUcAAm2Q6.jpg'>
+    <box top='796' left='251' width='161' height='31'/>
+  </image>
+  <image file='train_img/C0SgasQUUAI9wDU.jpg'>
+    <box top='623' left='354' width='195' height='34'/>
+  </image>
+  <image file='train_img/C0SgasQUcAA0Tiv.jpg'>
+    <box top='597' left='346' width='198' height='38'/>
+  </image>
+  <image file='train_img/C0SgasSUQAAs1dn.jpg'>
+    <box top='618' left='351' width='196' height='30'/>
+  </image>
+  <image file='train_img/C0Sgat-UUAApnj0.jpg'>
+    <box top='609' left='330' width='191' height='31'/>
+  </image>
+  <image file='train_img/C0Sj9PcUcAA-wtY.jpg'>
+    <box top='865' left='343' width='220' height='36'/>
+  </image>
+  <image file='train_img/C0Sj9PiUkAAHa2l.jpg'>
+    <box top='898' left='336' width='223' height='40'/>
+  </image>
+  <image file='train_img/C0SwzcAUkAQodRr.jpg'>
+    <box top='779' left='344' width='188' height='35'/>
+  </image>
+  <image file='train_img/C0WSXTGUsAAcoXz.jpg'>
+    <box top='970' left='333' width='239' height='45'/>
+  </image>
+  <image file='train_img/C0dPg0RUAAAa8w8.jpg'>
+    <box top='859' left='320' width='220' height='40'/>
+  </image>
+  <image file='train_img/C0dPg0VUUAAxnrh.jpg'>
+    <box top='892' left='281' width='180' height='33'/>
+  </image>
+  <image file='train_img/C0dPg0sUoAEDczf.jpg'>
+    <box top='824' left='322' width='165' height='29'/>
+  </image>
+  <image file='train_img/C0h56saVQAEihYZ.jpg'>
+    <box top='618' left='340' width='193' height='31'/>
+  </image>
+  <image file='train_img/C0rGOIoUsAABZzO.jpg'>
+    <box top='824' left='230' width='177' height='30'/>
+  </image>
+</images>
+</dataset>
